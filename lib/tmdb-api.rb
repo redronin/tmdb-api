@@ -8,6 +8,7 @@ require 'tmdb-api/searchable'
 require 'tmdb-api/inflections'
 
 require 'tmdb-api/movie'
+require 'tmdb-api/tv'
 require 'tmdb-api/genre'
 require 'tmdb-api/production_company'
 require 'tmdb-api/production_country'
