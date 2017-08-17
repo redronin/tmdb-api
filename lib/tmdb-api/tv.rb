@@ -1,5 +1,5 @@
 module TMDb
-  class TV < Base
+  class Tv < Base
     extend Searchable
 
     ATTRIBUTES = :id, :backdrop_path, :name, :number_of_episodes, :number_of_seasons,
